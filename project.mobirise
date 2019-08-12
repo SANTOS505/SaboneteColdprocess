@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-08-12_1906",
+    "name": "APOSTILA DE SABONETE COLD PROCESS PASSO A PASSO",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -36,6 +36,11 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.5",
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/capa-coldprocess-128x128.png",
+    "noImageResize": "",
+    "siteUrl": "undefined",
+    "google-analytics": "",
+    "gdpr": "",
     "uniqCompNum": 8,
     "versionPublish": "4.10.5"
   },
