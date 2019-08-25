@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "COLD PROCESS PASSO A PASSO - clone",
+    "name": "APOSTILA SABONETE COLD PROCESS PASSO A PASSO - clone",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -39,7 +39,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/capa-coldprocess-128x128.png",
     "noImageResize": "",
     "siteUrl": "undefined",
-    "google-analytics": "",
+    "google-analytics": "<script type=\"text/javascript\" src=\"https://app.monetizze.com.br/1buyclick.php?u=d5acb3ca18d42adaf77de710b80f53fa\"></script>",
     "gdpr": "",
     "uniqCompNum": 8,
     "versionPublish": "4.10.5",
