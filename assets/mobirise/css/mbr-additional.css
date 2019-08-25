@@ -1421,6 +1421,29 @@ body {
 .cid-ryYpTWdoQN H1 {
   color: #64ff02;
 }
+.cid-rAbGldqDEu {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rAbGldqDEu .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rAbGldqDEu .section-text {
+  padding: 2rem 0;
+}
+.cid-rAbGldqDEu .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rAbGldqDEu .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-ryYqreK56G {
   background: #ffffff;
   padding-top: 0px;
